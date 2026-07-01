@@ -246,6 +246,12 @@ DELETE /documents/{filename}
 
 ---
 
+# Screenshots
+<img width="1367" height="896" alt="image" src="https://github.com/user-attachments/assets/b20d0d7e-4c35-4791-9687-441960d87c42" />
+<img width="1891" height="907" alt="image" src="https://github.com/user-attachments/assets/041da1f4-f4d4-4a00-905c-01d54c2eb841" />
+
+
+
 # 📖 Example Workflow
 
 1. Upload **Operating Systems.pdf**
